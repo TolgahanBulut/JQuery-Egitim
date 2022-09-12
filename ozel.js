@@ -33,7 +33,7 @@ $(function(){
 -----------------------------------Alternatif Özellikli Diğer Element Seçiciler
 
 
-
+asd
 
 
 
