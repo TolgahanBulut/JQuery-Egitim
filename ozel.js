@@ -107,11 +107,7 @@ $(function(){
 
 
 
-
 */
-
-
-
 
 
 
@@ -120,11 +116,17 @@ $(function(){
 
 -----------------------------------------Çocuk Seçiciler(Child)
 
+$(function(){
+	
+	$(".child p:first").css({"background-color":"red"})
 
+	$(".child p:last").css({"background-color":"red"})
 
+	$(".child p:odd").css({"background-color":"red"})
 
+	$(".child p:even").css({"background-color":"red"})
 
-
+})
 
 
 

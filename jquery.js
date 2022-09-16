@@ -146,16 +146,34 @@ function gostergizle(){
 // --------------------------------------------
 
 
-$(function(){
+// $(function(){
 
-	$("tr:odd").css({"background-color":"grey"})
-	$("tr:even").css({"background-color":"green"})
-
-
-
-})
+// 	$("tr:odd").css({"background-color":"grey"})
+// 	$("tr:even").css({"background-color":"green"})
 
 
 
+// })
 
+
+
+
+
+// --------------------------------------------
+
+
+// $(function(){
+	
+// 	$(".child p:first").css({"background-color":"red"})
+
+// 	$(".child p:last").css({"background-color":"red"})
+
+// 	$(".child p:odd").css({"background-color":"red"})
+
+// 	$(".child p:even").css({"background-color":"red"})
+
+// })
+
+
+// --------------------------------------------
 
