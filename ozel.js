@@ -56,7 +56,212 @@ $(function(){
 
 /* 
 
------------------------------------------Sıralamalı Seçiciler
+-----------------------------------------  Sıralamalı Seçiciler
+
+
+
+$(function(){
+
+	// İlk indis eleman seçilir.
+
+	// $("li:first").css({"background-color":"green"})
+
+	// Son indis eleman seçilir.
+
+	// $("li:last").css({"background-color":"green"})
+
+	// Tek indisli elemanlar seçilir.
+
+	$("li:odd").css({"background-color":"green"})
+
+	// Çift indisli elemanlar seçilir.
+
+	// $("li:even").css({"background-color":"green"})
+
+})
+
+
+
+
+
+
+
+*/
+
+
+
+
+
+/* 
+
+-----------------------------------------  Zebra Stili Tablo Yapım Uygulaması 
+
+
+
+
+
+
+
+
+
+
+*/
+
+
+
+
+
+
+
+/* 
+
+-----------------------------------------Çocuk Seçiciler(Child)
+
+
+
+
+
+
+
+
+
+
+*/
+
+
+
+
+
+/* 
+
+-----------------------------------------Elemanları Bulup Seçme
+
+
+
+
+
+
+
+
+
+
+*/
+
+
+
+
+
+/* 
+
+-----------------------------------------Previous ve Next - Bulma Fonksiyonları
+
+
+
+
+
+
+
+
+
+
+*/
+
+
+
+
+
+/* 
+
+-----------------------------------------Eleman index numarasına göre seçme
+
+
+
+
+
+
+
+
+
+
+*/
+
+
+
+
+
+/* 
+
+-----------------------------------------Filtreleme Fonksiyonları
+
+
+
+
+
+
+
+
+
+
+*/
+
+
+
+
+
+/* 
+
+-----------------------------------------Each Döngü Fonksiyonu Kullanımı
+
+
+
+
+
+
+
+
+
+
+*/
+
+
+
+
+
+
+
+
+
+
+/* 
+
+-----------------------------------------Slice Seçici Kullanımı
+
+
+
+
+
+
+
+
+
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+
+-----------------------------------------is Kullanımı
 
 
 

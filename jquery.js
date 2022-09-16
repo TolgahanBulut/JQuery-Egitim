@@ -117,6 +117,34 @@ function gostergizle(){
 
 
 
+// --------------------------------------------
+
+
+// $(function(){
+
+	// İlk indis eleman seçilir.
+
+	// $("li:first").css({"background-color":"green"})
+
+	// Son indis eleman seçilir.
+
+	// $("li:last").css({"background-color":"green"})
+
+	// Tek indisli elemanlar seçilir.
+
+	// $("li:odd").css({"background-color":"green"})
+
+	// Çift indisli elemanlar seçilir.
+
+	// $("li:even").css({"background-color":"green"})
+
+// })
+
+
+
+
+
+
 
 
 
