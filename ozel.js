@@ -96,11 +96,14 @@ $(function(){
 
 -----------------------------------------  Zebra Stili Tablo Yapım Uygulaması 
 
+$(function(){
+
+	$("tr:odd").css({"background-color":"grey"})
+	$("tr:even").css({"background-color":"green"})
 
 
 
-
-
+})
 
 
 

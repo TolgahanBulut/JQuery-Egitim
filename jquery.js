@@ -143,9 +143,17 @@ function gostergizle(){
 
 
 
+// --------------------------------------------
+
+
+$(function(){
+
+	$("tr:odd").css({"background-color":"grey"})
+	$("tr:even").css({"background-color":"green"})
 
 
 
+})
 
 
 
