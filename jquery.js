@@ -177,3 +177,28 @@ function gostergizle(){
 
 // --------------------------------------------
 
+// $(function(){
+// 	$(".tolga").find("span").css({"background-color":"red"})
+
+// 	$(".udemy").find("p").css({"background-color":"orange"})
+
+// 	$(".tolga").find("b").css({"background-color":"violet"})
+
+// })
+
+
+// --------------------------------------------
+
+// $(function(){
+
+
+// 	$(".iki").prev().css({"background-color":"red"})
+
+
+// 	$(".iki").next().css({"background-color":"red"})
+// })
+
+
+
+
+
