@@ -183,11 +183,9 @@ $(function(){
 
 -----------------------------------------Eleman index numarasına göre seçme
 
-
-
-
-
-
+$(function(){
+	$(".udemy li:eq(2)").css({"background-color":"orange"});
+})
 
 
 
@@ -197,16 +195,21 @@ $(function(){
 
 
 
-
 /* 
 
 -----------------------------------------Filtreleme Fonksiyonları
 
+// $(function(){
 
+// 	// $("div").first().css({"background-color":"violet"});
 
+// 	// $("div").last().css({"background-color":"violet"});
 
+// 	// $("div").filter(".ücüncü").css({"background-color":"violet"});
 
+// 	$("div").not(".ikinci").css({"background-color":"violet"});
 
+// })
 
 
 
@@ -220,7 +223,6 @@ $(function(){
 /* 
 
 -----------------------------------------Each Döngü Fonksiyonu Kullanımı
-
 
 
 
