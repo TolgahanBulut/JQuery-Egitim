@@ -223,7 +223,29 @@ function gostergizle(){
 // --------------------------------------------
 
 
+// $(function(){
+
+// 	$("ul li").each(function(index) {
+// 		alert(index+`.eleman : `+$(this).text());
+// 	}
+// })
 
 
+// --------------------------------------------
+
+// $(function(){
+
+// 	$("li").slice(1,4).css({"background-color":"red"})
+// })
 
 
+// --------------------------------------------
+
+
+// $(function(){
+// 	if($("div").is("#udemy")) {
+// 		$("b").text("Evet Var!")
+// 	} else {
+// 		$("b").text("Hayır Yok!")
+// 	}
+// })

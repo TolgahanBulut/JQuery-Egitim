@@ -224,23 +224,16 @@ $(function(){
 
 -----------------------------------------Each Döngü Fonksiyonu Kullanımı
 
+$(function(){
 
-
-
-
-
+	$("ul li").each(function(index) {
+		alert(index+`.eleman : `+$(this).text());
+	}
+})
 
 
 
 */
-
-
-
-
-
-
-
-
 
 
 /* 
@@ -250,36 +243,28 @@ $(function(){
 
 
 
+/*
+
+$(function(){
+
+	$("li").slice(1,4).css({"background-color":"red"})
+})
 
 
+*/ 
 
-
-
-
-*/
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* 
+/*
 
 -----------------------------------------is Kullanımı
 
 
-
-
-
-
-
+$(function(){
+	if($("div").is("#udemy")) {
+		$("b").text("Evet Var!")
+	} else {
+		$("b").text("Hayır Yok!")
+	}
+})
 
 
 
