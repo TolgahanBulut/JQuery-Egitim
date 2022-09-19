@@ -295,4 +295,24 @@ $(function(){
 
 
 
+// $(function(){
+
+// 	$("div").height(400).fadeOut(2000).fadeIn(2000);
+	
+// })
+
+
+
+
+
+
+// ---------------------------------------- Remove class
+
+
+// $(function(){
+
+//  	$("p").removeClass("renk")
+// })
+
+
 
