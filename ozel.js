@@ -266,6 +266,33 @@ $(function(){
 	}
 })
 
-
-
 */
+
+
+// ---------------------------------------- Add class
+
+
+// $(function(){
+// 	$("p").addClass("renk")
+// })
+
+
+// ---------------------------------------- Has class
+
+
+// $(function(){
+	// 	var sor = $("p").hasClass("renks");
+	
+	// 	if(sor==true){
+	// 		alert("var");
+	// 	}else{
+	// 		alert("Yok")
+	// 	}
+	// })
+
+
+// --------------------------------------------Metod Zincirlemesi
+
+
+
+
