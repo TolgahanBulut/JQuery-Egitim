@@ -394,3 +394,132 @@ $(function(){
 
 // ---------------------------------------- AppendTo & PrependTo Kullanımı
 
+//  $ (function(){
+// 	// $("a").appendTo($("p"))
+
+// 	$("#ekle").on("click",function(){
+// 		//  $("a").appendTo($("p"))
+// 		//   $("a").prependTo($("p"))
+
+// 	})
+//  })
+
+
+
+
+// ---------------------------------------- Before & After Kullanımı
+
+
+
+
+// $(function(){
+
+// // Seçili nesnelerin hepsinin gerisine eklenir.
+// 	// $("li").after("<li>HTML</li>")
+
+// // İlk nesnenin gerisine eklenir.
+
+// 	// $("li:first").after("<li>HTML</li>")
+
+// // Son nesnenin gerisine eklenir.
+
+
+// 	// $("li:last").after("<li>HTML</li>")
+
+// // Seçili nesnelerin hepsinin ilerisine eklenir.
+
+// 	// $("li").before("<li>Css</li>")
+
+
+// 	$("button").on("click",function(){
+
+// 		$("li").after("<li>HTML</li>")
+// 	})
+
+// })
+
+
+// ---------------------------------------- İsteğe Bağlı Sürekli Çoğalan Dosya Yükleme Alanı Yapımı Uygulaması
+
+
+
+
+// $(function(){
+// 	$("button").on("click",function(){
+// 		$("input:last").before("<input class='input' type='file'name='yukle	[]'><br/><br/>")
+// 	})
+// })
+
+
+// ---------------------------------------- Clone Kullanımı
+
+// $(function(){
+
+// //	Seçilen nesnenin sonrasına clonlar.
+
+// 	// $("p").clone().insertBefore("div") 
+
+// //	Seçilen nesnenin öncesine clonlar.
+
+// 	 $("div").clone().insertAfter("p")
+// })
+
+// ---------------------------------------- Clone Kullanımı
+
+// $(function(){
+	// 	$("button").on("click",function(){
+	// 		$("a").text("link ekledim");
+	// 		$("b").text("Kalın yazı ekledim")
+	// 		$("p").text("Paragraf ekledim")
+	
+	// 	})
+	// })
+
+
+
+// ---------------------------------------- Replace Kullanımı
+
+// $(function(){
+
+	// 	$("button").on("click",function(){
+	
+	// 		// $("p").replaceWith("<p>Tolgahan</p>");
+	
+	
+	// 		// $("<p>Tolgahan</p>").replaceAll("p");
+	
+	// 	})
+	// })
+
+
+
+// ---------------------------------------- Empty Kullanımı
+
+// $(function(){
+// 	$("button").on("click",function(){
+
+// 		// $("p").empty();
+// 		// $("p").text("TEMİZLENDİ")
+
+// 		$("textarea").empty();
+// 		// $("p").text("TEMİZLENDİ")
+
+// 	})
+// })
+
+// ---------------------------------------- Remove Kullanımı
+
+// $(function(){
+// 	$("button").on("click",function(){
+// 		$("li").eq(0).remove();
+// 	})
+// })
+
+// ---------------------------------------- Elemanların Verilerine Ulaşma
+
+// $(function(){
+	// 	$("a").text("Tolgahan Bulut")
+	// 	$("a").attr("href","www.google.com");
+	
+	// 	$("a").attr("style","color:red")
+	// })
