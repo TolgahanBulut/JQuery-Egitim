@@ -316,3 +316,81 @@ $(function(){
 
 
 
+
+// ---------------------------------------- Toggle class
+
+
+
+// $(function(){
+
+// 	$("button").on("click", function(){
+
+// 	$("p").toggleClass("renk");
+
+// 	});
+// })
+
+
+// ---------------------------------------- Class Bulma
+
+
+
+// $(function(){
+
+	// 				// BUTONSUZ 
+	
+	// 	// var sor = $("div").hasClass("Tolga")
+	
+	// 	// if(sor == true) {
+	// 	// 	alert("tolga classı var");
+	
+	// 	// }else {
+	// 	// 	alert("tolga Classı YOK!");
+	// 	// }
+	
+	// 				// BUTONLU
+	
+	// 	$("button").on("click",function(){
+	
+	// 		 var sor = $("div").hasClass("tolga")
+	
+	// 		 if(sor == true) {
+	// 		 	alert("tolga classı var");
+	
+	// 		 }else {
+	// 		 	alert("tolga Classı YOK!");
+	// 		 }
+	// 	})
+		
+	// })
+
+
+
+
+
+// ---------------------------------------- Append & Prepend Kullanımı
+
+
+// $(function(){
+
+
+// // Düz yazı olarak ekleme
+
+// 	// $(".javascript").append("Append ile arkasına eklendi");
+// 	// $(".jquery").prepend("Prepend ile Önüne Eklendi");
+
+// // Html Kodlar İle Ekleme
+
+// 	$(".javascript").append("<p>append İle arkasına eklendi </p>");
+// 	$(".javascript").prepend("<p><b />Prepend İle Önüne eklendi </p>");
+
+// 	$(".liste").append("<option>Bootstrap</option>");
+// 	$(".liste").prepend("<option>Css</option>");
+
+
+// })
+
+
+
+// ---------------------------------------- AppendTo & PrependTo Kullanımı
+
