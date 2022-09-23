@@ -523,3 +523,70 @@ $(function(){
 	
 	// 	$("a").attr("style","color:red")
 	// })
+
+
+
+
+
+// ---------------------------------------- Stillere Ulaşma
+	
+// $(function(){
+
+// 	$(".box").css({"height":"150px"})
+
+// 	$(".box").css({"width":"+=50"})
+// })
+
+
+
+// ---------------------------------------- HTML Kullanımı
+
+
+// $(function(){
+	
+	// Nesnenin içeriğini al
+	//alert($("p").html());
+
+	// Nesnenin İçeriğini Değiştir
+	// $("p").html("Paragrafın içeriğini ben değiştirdim");
+
+	// Nesnenin içeriğini başka bir nesneye aktarma
+	// $("b").html($("p").html());
+
+	// Çoklu Alma
+	//alert($("div").html());
+
+
+
+	// var icerik = $("b").html()
+	// if(icerik=="tolga"){
+	// 	document.write("Burada tolga yazıyordu");
+	// }else {
+	// 	document.write("Burada tolga yazmıyordu.")
+	// }
+// })
+
+
+
+// ---------------------------------------- Val Kullanımı
+
+
+// $(function(){
+// 	// alert($("input").val())
+
+// 	$("button").on("click",function(){
+		
+// 		var liste =$("select").val();
+
+// 		if(liste=="HTML"){
+// 			alert("HTML Seçildi!");
+// 		}else if (liste=="css") {
+// 			alert("CSS Seçildi !")
+// 		}else {
+// 			alert("Javascript Seçildi !")
+// 		}
+// 	})
+// })
+
+
+
