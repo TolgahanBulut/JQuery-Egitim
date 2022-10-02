@@ -561,3 +561,26 @@ function gostergizle(){
 // })
 
 
+
+// --------------------------------------------
+
+
+// $(function(){
+// 	// $("b").text("Eleman Sayısı ="+$("li").length)
+
+// 	$("button").on("click",function(){
+// 		$("b").text("Eleman Sayısı ="+$("li").length)
+// 	})
+// })
+
+
+// --------------------------------------------
+
+
+$(function(){
+	// $("b").text("get şuna yarıyor"+$("li").get())
+
+	var say = $("ul").get();
+
+	$("b").text("Seçilen elemanın içeriği = " + $("li").eq(0).text())
+})
